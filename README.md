@@ -11,22 +11,20 @@ Code releasing...
 
 
 
-```
-
 ## TODO
-[] track
-[] mvd
-[] nslf
-[] flexion
-[] graph
+- [x] [track](https://github.com/Jarrome/SceneFactory-tracker)
+- [ ] mvd
+- [ ] nslf
+- [ ] flexion
+- [ ] graph
 
 ---
 ## Citation
-If you find this work interesting, please cite us:
+If you find this work useful, please cite us:
 ```bibtex
 @article{yuan2025scenefactory,
   title={SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling},
-  author={Yuan, Yijun, Bleier Michael and N{\"u}chter, Andreas},
+  author={Yuan, Yijun, Bleier, Michael and N{\"u}chter, Andreas},
   journal={IEEE Transactions on Robotics},
   year={2025},
   publisher={IEEE}
