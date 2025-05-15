@@ -1,0 +1,9 @@
+[submodule "modules/SceneFactory-recon"]
+	path = modules/SceneFactory-recon
+	url = https://github.com/Jarrome/SceneFactory-recon.git
+[submodule "modules/SceneFactory-mvd"]
+	path = modules/SceneFactory-mvd
+	url = https://github.com/Jarrome/SceneFactory-mvd.git
+[submodule "modules/SceneFactory-tracker"]
+	path = modules/SceneFactory-tracker
+	url = https://github.com/Jarrome/SceneFactory-tracker.git
